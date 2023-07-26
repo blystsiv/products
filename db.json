@@ -1,0 +1,82 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Smartphone XZ-200",
+      "imageURL": "https://placehold.co/400x600?text=Phone",
+      "description": "Powerful smartphone with advanced features.",
+      "price": 499.99,
+      "stockCount": 4,
+      "dimensions": {
+        "width": 70.2,
+        "height": 155.8
+      },
+      "weight": "200g"
+    },
+    {
+      "id": 2,
+      "name": "Smartwatch Pro 3",
+      "imageURL": "https://placehold.co/400x600?text=Phone",
+      "description": "High-end smartwatch for fitness and productivity.",
+      "price": 249.99,
+      "stockCount": 250,
+      "dimensions": {
+        "width": 46.5,
+        "height": 46.5
+      },
+      "weight": "53g"
+    },
+    {
+      "id": 3,
+      "name": "Wireless Earbuds Ultra",
+      "imageURL": "https://placehold.co/400x600?text=Earbuds",
+      "description": "Premium wireless earbuds with noise-cancellation.",
+      "price": 149.99,
+      "stockCount": 213,
+      "dimensions": {
+        "width": 25.6,
+        "height": 30.9
+      },
+      "weight": "5g"
+    },
+    {
+      "id": 4,
+      "name": "Power Bank 10000mAh",
+      "imageURL": "https://placehold.co/400x600?text=Power+Bank\n10000mAh",
+      "description": "Portable power bank for charging devices on the go.",
+      "price": 39.99,
+      "stockCount": 231,
+      "dimensions": {
+        "width": 68.8,
+        "height": 138.5
+      },
+      "weight": "260g"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "productId": 1,
+      "text": "Amazing phone! The camera quality is outstanding.",
+      "date": "2023-07-25 14:00"
+    },
+    {
+      "id": 2,
+      "productId": 2,
+      "text": "The smartwatch looks stylish, and it's comfortable to wear.",
+      "date": "2023-07-26 10:30"
+    },
+    {
+      "id": 3,
+      "productId": 1,
+      "text": "The battery life could be better, but overall a solid device.",
+      "date": "2023-07-24 18:15"
+    },
+    {
+      "id": 4,
+      "productId": 3,
+      "text": "Not satisfied with the sound quality. Considering a return.",
+      "date": "2023-07-22 09:45"
+    }
+  ]
+}
